@@ -47,7 +47,7 @@ Sales teams often collect large amounts of data but struggle to turn it into use
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Java (JDK 17+ recommended)
 - Java Collections & Streams
